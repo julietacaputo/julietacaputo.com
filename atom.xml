@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Julieta Caputo</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2021-11-20T17:05:22-08:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://github.com/karloespiritu/blackdoc/atom.xml" rel="self"/>
+ <link href="https://github.com/karloespiritu/blackdoc/"/>
+ <updated>2021-11-20T17:48:29-08:00</updated>
+ <id>https://github.com/karloespiritu/blackdoc</id>
  <author>
    <name>Karlo Espiritu</name>
    <email></email>
