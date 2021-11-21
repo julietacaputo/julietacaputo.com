@@ -326,6 +326,7 @@ a.sidebar-nav-item:visited {
   text-align: justify;
   max-width: 670px;
   margin-top: 50px;
+  list-style-type: square;
 }
 
 /*
