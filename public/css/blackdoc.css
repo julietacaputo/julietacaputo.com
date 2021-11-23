@@ -264,6 +264,7 @@ a.sidebar-nav-item:visited {
 .sidebar-nav-item.active {
   /*font-weight: bold;*/
   background-color: #e8fc76;
+  color: #6a9fb5;
   /*  color: #F00;*/
 }
 
