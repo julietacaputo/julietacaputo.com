@@ -33,7 +33,7 @@ html {
 
 body {
   color: #222;
-  background-color: #ffffff;
+  background-color: #f7f7ef;
 }
 
 h1,
@@ -72,14 +72,14 @@ h6 a {
 
 a {
   color: #222;
-  background-color: #f5ddfd;
+  background-color: #fae1e9;
   transition: color ease 0.3s;
 }
 
 a:hover {
   color: #222;
   text-decoration: none;
-  background-color: #e8fc76;
+  background-color: #ccffcc;
 
 }
 
@@ -163,7 +163,7 @@ tbody tr:nth-child(odd) th {
 }
 @media (min-width: 58em) {
   html {
-    font-size: 12.5px;
+    font-size: 13px;
   }
 }
 
@@ -210,7 +210,7 @@ tbody tr:nth-child(odd) th {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255, 255, 255, .5);
-  background-color: #ffffff;
+  background-color: #f7f7ef;
   overflow: auto;
 }
 @media (min-width: 48em) {
@@ -251,7 +251,7 @@ a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   /*  text-decoration: underline; */
   text-decoration: none;
-  background-color: #f5ddfd;
+  background-color: #fae1e9;
 }
 
 a.sidebar-nav-item:visited {
@@ -263,7 +263,7 @@ a.sidebar-nav-item:visited {
 
 .sidebar-nav-item.active {
   /*font-weight: bold;*/
-  background-color: #e8fc76;
+  background-color: #ccffcc;
   /*  color: #F00;*/
 }
 
