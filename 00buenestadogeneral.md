@@ -9,10 +9,5 @@ order: 0
 \
 \
 \
-![image](public/images/amancayII1.jpg)
-\
-\
-\
-![image](public/images/amancayII2.jpg)
-
+en construcción
 
